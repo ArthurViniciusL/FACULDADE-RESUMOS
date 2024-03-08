@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "768d97b5e867a519",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82e2d494da8848f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31b5db47139e767b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Segurança da informação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "951068bfe07c5e60",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae15ad315452c755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a293a91a53fb8d5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb1a64fa550bf061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6200db696e76d484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d98cebdc986430f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaa72ef7f5d02378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72027f146eedd5ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Segurança da informação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08ded41761184b79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Segurança da informação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12c7f3245d2ec601",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a9b78f9e1f8b768",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Segurança da informação.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "31b5db47139e767b",
+  "lastOpenFiles": [
+    "Segurança da informação.md",
+    "Segurança da informação",
+    "Empreendedorismo/Empreendedorismo.md",
+    "Marketing Digital/Marketing Digital.md",
+    "Empreendedorismo",
+    "Marketing Digital",
+    "Álgebra linear/Álgebra linear.md",
+    "Processo decisório/Processo decisório.md",
+    "Processo decisório/imgs",
+    "Processo decisório/imgs/Pasted image 20240305194413.png",
+    "Processo decisório",
+    "Álgebra linear/imgs/Pasted image 20240304172529.png",
+    "Álgebra linear/imgs/Pasted image 20240304175403.png",
+    "Álgebra linear/imgs/Pasted image 20240304175143.png",
+    "Álgebra linear/imgs/Pasted image 20240304172758.png",
+    "Álgebra linear/imgs/Pasted image 20240304171506.png",
+    "Álgebra linear/imgs/Pasted image 20240304171439.png",
+    "Álgebra linear/imgs/Pasted image 20240304130301.png",
+    "Álgebra linear/imgs/Pasted image 20240304132331.png",
+    "Álgebra linear/imgs/Pasted image 20240304160854.png",
+    "Álgebra linear/imgs",
+    "Álgebra linear/esboço_matriz.odf",
+    "Álgebra linear/lu2011655hwb.tmp",
+    "Álgebra linear/fotos_do_quadro",
+    "Sem título.canvas",
+    "Governança de T.I/Governança de T.I.md",
+    "Governança de T.I",
+    "Welcome.md"
+  ]
+}
