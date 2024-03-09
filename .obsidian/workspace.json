@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c82e2d494da8848f",
+        "id": "4185e340c35a2e89",
         "type": "tabs",
+        "dimension": 58.2089552238806,
         "children": [
           {
-            "id": "31b5db47139e767b",
+            "id": "1391b25385b118ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança da informação.md",
+                "file": "Álgebra linear/Matrizes.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6fe3568e0db0943e",
+        "type": "tabs",
+        "dimension": 41.7910447761194,
+        "children": [
+          {
+            "id": "2f91e6622d9ee7b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra linear/Matrizes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança da informação.md",
+                "file": "Álgebra linear/Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança da informação.md",
+                "file": "Álgebra linear/Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança da informação.md"
+                "file": "Álgebra linear/Matrizes.md"
               }
             }
           }
@@ -146,35 +166,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "31b5db47139e767b",
+  "active": "a293a91a53fb8d5f",
   "lastOpenFiles": [
-    "Segurança da informação.md",
+    "Álgebra linear/lu97531lso6.tmp",
+    "Álgebra linear/imgs/Pasted image 20240309202359.png",
+    "Álgebra linear/imgs/Pasted image 20240309202327.png",
+    "Álgebra linear/imgs/Pasted image 20240309202103.png",
+    "Álgebra linear/imgs/Pasted image 20240309201737.png",
+    "Álgebra linear/Matrizes.md",
+    "Álgebra linear/imgs/Pasted image 20240309201531.png",
+    "Pasted image 20240308184151.png",
+    "Álgebra linear/imgs/Pasted image 20240304175403.png",
+    "Álgebra linear/imgs/Pasted image 20240308182225_3.png",
+    "Álgebra linear/imgs/Pasted image 20240308182225_2.png",
+    "Álgebra linear/imgs/Pasted image 20240308182225_1.png",
+    "Álgebra linear/lu93881c17m.tmp",
+    "Processo decisório/Processo decisório.md",
+    "Segurança da informação/Segurança da informação.md",
     "Segurança da informação",
     "Empreendedorismo/Empreendedorismo.md",
     "Marketing Digital/Marketing Digital.md",
     "Empreendedorismo",
     "Marketing Digital",
-    "Álgebra linear/Álgebra linear.md",
-    "Processo decisório/Processo decisório.md",
     "Processo decisório/imgs",
-    "Processo decisório/imgs/Pasted image 20240305194413.png",
     "Processo decisório",
-    "Álgebra linear/imgs/Pasted image 20240304172529.png",
-    "Álgebra linear/imgs/Pasted image 20240304175403.png",
-    "Álgebra linear/imgs/Pasted image 20240304175143.png",
-    "Álgebra linear/imgs/Pasted image 20240304172758.png",
-    "Álgebra linear/imgs/Pasted image 20240304171506.png",
-    "Álgebra linear/imgs/Pasted image 20240304171439.png",
-    "Álgebra linear/imgs/Pasted image 20240304130301.png",
-    "Álgebra linear/imgs/Pasted image 20240304132331.png",
-    "Álgebra linear/imgs/Pasted image 20240304160854.png",
     "Álgebra linear/imgs",
     "Álgebra linear/esboço_matriz.odf",
     "Álgebra linear/lu2011655hwb.tmp",
     "Álgebra linear/fotos_do_quadro",
     "Sem título.canvas",
     "Governança de T.I/Governança de T.I.md",
-    "Governança de T.I",
     "Welcome.md"
   ]
 }

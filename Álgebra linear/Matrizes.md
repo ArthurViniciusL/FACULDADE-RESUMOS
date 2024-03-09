@@ -62,9 +62,38 @@ Uma matriz pode ser assumida como identidade quando todos os elementos da sua _d
 > O que gera a matriz:
 > ![[Pasted image 20240304175403.png]]
 ### Multiplicação
->
-### Divisão
+> Para que seja possível efetuar uma multiplicar uma matriz, o número de colunas de A devem ser iguais ao número de linhas em B.
 > 
+> **Exemplo:**
+> ![[Pasted image 20240309202327.png]]
+> ![[Pasted image 20240309202359.png]]
+
+> Para efetuar a multiplicação entre os elemento de uma matriz devemos multiplicar o valor da coluna A, pelos elementos da linha em B. E em seguida somar o resultado de cada multiplicação para que seja gerado o elemento da matriz AxB.
+> **Exemplo:**
+> ![[Pasted image 20240308182225_1.png]]
+> ![[Pasted image 20240308182225_2.png]]
+> ![[Pasted image 20240308182225_3.png]]
+
+> **Primeira linha da matriz**
+> ```
+> i1xj1 : A.B = (1 x 1) + (2 x 2) = 5
+> i1xj2 : A.B = (1 x -2) + (2 x 4) = 6
+> i1xj3 : A.B = (1 x 3) + (2 x 0) = 3
+> ```
+
+> **Segunda linha da matriz**
+> ```
+> i2xj1 : (3 x 1) + (-1 x 2) =  1
+> i2xj2 : (3 x -2) + (-1 x 4) = -10
+> i2xj3 : (3 x 3) + (-1 x 0) = 9
+> ```
+
+ 
+> **O resultado da matriz então é:** 
+> ![[Pasted image 20240309201531.png]]
+
+### Divisão
+> Não existe.
 ---
 ## Matriz inversa 
 # Determinantes
