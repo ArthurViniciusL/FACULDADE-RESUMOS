@@ -95,7 +95,8 @@ Uma matriz pode ser assumida como identidade quando todos os elementos da sua _d
 ### Divisão
 > Não existe.
 ---
-## Matriz inversa 
+## Matriz inversa
+x
 # Determinantes
 
 # Sistemas lineares
