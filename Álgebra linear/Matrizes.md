@@ -240,14 +240,27 @@ $$
 
 ---
 # Matriz inversa
-x
+Uma matriz inversa é uma matriz quadrada ($A$) que quando multiplicada por sua matriz inversa ($A^{-1}$), resulta em uma matriz identidade. Tal que $A*A^{-1}=I_{n,j}$ .
+
+**Exemplo:**
+![[Pasted image 20240321175723.png]]
+$D = 2$
 $$X = \begin{bmatrix}
 1 & x_{1}1 & x_{2} \\
 1 & x_{3} 1 & x_{4}
 \end{bmatrix}$$2x2:
-- encontrar o determinante
-- dividir pelo determinante
-- inverte os elementos da diagonal principal
-- inverte os sinais da diagonal secundária
+- Encontrar o determinante da matriz ([[Determinantes]]);
+- Dividir os valores pelo determinante;
+![[Pasted image 20240321175723_2.png]]
+![[Pasted image 20240321180535.png]]
+- Inverter os elementos da diagonal principal (permutar).
+![[Pasted image 20240321180725.png]]
+
+- Inverte os **sinais** da diagonal secundária.
+![[Pasted image 20240321181048.png]]
+
+E o resultado final da matriz inversa é:
+![[Pasted image 20240321181320.png]]
+
 # Sistemas lineares
 x

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a60222e632f916ac",
+        "id": "a1d43401c2fc7a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "98e7c12cbefef69e",
+            "id": "9c6ffab37d4e79d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +16,6 @@
                 "file": "Álgebra linear/Matrizes.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4dbb5bf7fd01af13",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Álgebra linear/imgs/Pasted image 20240320224332_1.png"
               }
             }
           }
@@ -156,22 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "98e7c12cbefef69e",
+  "active": "9c6ffab37d4e79d8",
   "lastOpenFiles": [
+    "Álgebra linear/lu225737498i.tmp",
+    "Álgebra linear/imgs/Pasted image 20240321181320.png",
+    "Pasted image 20240321181221.png",
+    "Álgebra linear/Matrizes.md",
+    "Álgebra linear/imgs/Pasted image 20240321181048.png",
+    "Álgebra linear/imgs/Pasted image 20240321180725.png",
+    "Álgebra linear/imgs/Pasted image 20240321180535.png",
+    "Álgebra linear/imgs/Pasted image 20240321175723_2.png",
+    "Álgebra linear/imgs/Pasted image 20240321175723.png",
+    "Pasted image 20240321175715.png",
+    "Álgebra linear/imgs/Pasted image 20240320224332_1.png",
     "Álgebra linear/imgs/Pasted image 20240320224332_3.png",
     "Álgebra linear/lu2105299yxu.tmp",
-    "Álgebra linear/imgs/Pasted image 20240320234222.png",
-    "Álgebra linear/Pasted image 20240320224332_2.png",
-    "Álgebra linear/imgs/Pasted image 20240320224332_1.png",
-    "Álgebra linear/Matrizes.md",
-    "Álgebra linear/Pasted image 20240320224332_1.png",
-    "Álgebra linear/Captura de tela de 2024-03-20 23-36-14.png",
-    "Álgebra linear/imgs/Pasted image 20240320233158.png",
-    "Álgebra linear/imgs/Pasted image 20240320224332_2.png",
-    "Álgebra linear/imgs/Pasted image 20240320224332 (cópia).png",
     "Álgebra linear/lu2105299yxr.tmp",
-    "Álgebra linear/imgs/Pasted image 20240320224332.png",
-    "Álgebra linear/fotos_do_quadro/20240223_201026.jpg",
     "Álgebra linear/Matrizes",
     "T.E.S.I.  (desenvolvimento de sistemas de informação)./Desenvolvimento de sistemas de informação.md",
     "Empreendedorismo/Empreendedorismo.md",
