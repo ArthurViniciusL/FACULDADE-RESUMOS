@@ -3,6 +3,21 @@ Esboço de matriz no LibreOffice Math:
 > ```
 > left[ matrix{a # b ## c # g} right ]
 > ```
+
+Exemplo de matriz para Markdown
+```
+$$X = \begin{bmatrix}
+1 & x_{1}1 & x_{2} \\
+1 & x_{3} 1 & x_{4}
+\end{bmatrix}$$
+```
+
+$$X = \begin{bmatrix}
+1 & x_{1}1 & x_{2} \\
+1 & x_{3} 1 & x_{4}
+\end{bmatrix}$$
+
+
 # Matrizes
 
 Uma matriz é uma estrutura de tabela composta por _m_ linhas e _n_ colunas, com uma ordem _m_ x _n_. Onde _m_ e _n_ devem ser maior ou diferentes de zero.
@@ -62,7 +77,7 @@ Uma matriz pode ser assumida como identidade quando todos os elementos da sua _d
 > O que gera a matriz:
 > ![[Pasted image 20240304175403.png]]
 ### Multiplicação
-> Para que seja possível efetuar uma multiplicar uma matriz, o número de colunas de A devem ser iguais ao número de linhas em B.
+> Para que seja possível efetuar uma multiplicar uma matriz, o número de colunas de A devem ser iguais ao número de linhas de B.
 > 
 > **Exemplo:**
 > ![[Pasted image 20240309202327.png]]
@@ -94,9 +109,145 @@ Uma matriz pode ser assumida como identidade quando todos os elementos da sua _d
 
 ### Divisão
 > Não existe.
+
 ---
-## Matriz inversa
-x
+
 # Determinantes
 
+O determinante de uma matriz é importante para várias aplicações, como verificar se três pontos estão alinhados no plano cartesiano, calcular áreas de triângulos, resolver sistemas lineares, entre outras aplicações na matemática.
+
+O determinante é uma função matemática que associa a cada matriz quadrada um número real. Este número é **calculado a partir dos elementos da matriz** e possui propriedades específicas que o tornam uma ferramenta poderosa na resolução de problemas matemáticos.
+## Determinante de ordem 1
+- Para matrizes de ordem 1, o determinante é igual ao seu único elemento.
+## Determinante de ordem 2
+- Para matrizes de ordem 2, o determinante é calculado pela diferença (subtração) entre o produto dos termos da diagonal principal e os termos da diagonal secundária. Ou seja **diagonal principal - diagonal secundária**.
+- **Exemplo:**
+> $$A = \begin{bmatrix}
+{4} & {2} \\
+{1} & {1}
+\end{bmatrix}$$
+> $$
+ \begin{align*} d_1 & = 4 * 1 \\ d_2 & = 2 * 1 \\ D & = (4 - 2) => 2 \end{align*}
+$$
+
+## Determinante de ordem 3 (regra de Sarrus)
+- Para matrizes de **ordem 3**, utiliza-se a **regra de Sarrus**. A Regra de **Sarrus** é um método prático usado para calcular o determinante de uma matriz quadrada de ordem.
+- **Exemplo:**
+	Aqui estão os passos para **aplicar a Regra de Sarrus**:
+1. epita as duas primeiras colunas ao lado da matriz;
+	![[Pasted image 20240319203214.png]]
+	![[Pasted image 20240319203236.png]]
+2. Multiplique os valores de todas as **diagonais da principais**;
+	![[Pasted image 20240320111940.png]]
+	$$ \begin{align*}
+	1 . 5 . 8 = 40 \\
+	2 . 6 . 2 = 24 \\
+	3 . 2 . 5 = 30 \\
+	 \end{align*}$$
+3. Multiplique os valores de todas as **diagonais secundárias**;
+	![[Pasted image 20240320112254.png]]
+
+$$ \begin{align*}
+2 . 2 . 8 = 32 \\
+1 . 6 . 5 = 30 \\
+3 . 5 . 2 = 30 \\
+ \end{align*}$$
+4. Some os resultados das multiplicações das diagonais do mesmo sentido;
+	$$\begin{align*}
+	d_1 = 40 + 24 + 30 => 94 \\
+	d_2 = 32 + 30 + 30 => 92 \\
+	\end{align*}$$
+5. Subtraia os dois valores finais para obter a determinante.
+$$
+	\begin{align*}
+	&Det = d_1 - d_2  \\ &Det = 2
+	\end{align*}
+$$
+## Determinante de ordem ≥ 4 (Teorema de Laplace)
+O **Teorema de Laplace** é um método para **calcular o determinante de matrizes** quadradas de ordem _n_. Normalmente, é utilizado quando as matrizes são **de ordem igual ou maior que 4**.
+
+Para usar o Teorema de Laplace é necessário obter o cofator de cada índice da matriz.
+
+
+### **Como funciona o teorema de Laplace.**
+No teorema de Laplace a **determinante** da matriz será o produto da soma entre os elemento multiplicados pelos seus cofatores.
+
+![[Pasted image 20240320224332_1.png]]
+1. Selecione uma fila (linha ou coluna), da matriz (Quanto mais zeros houver na fila, melhor para facilitar o cálculo);
+![[Pasted image 20240320224332_3.png]]
+2. Multiplicar cada elemento pelo **cofator** do valor no índice;
+	[[Matrizes#**Como descobri o cofator.**]]
+ 
+ $$\begin{align*}
+&a_{4,4} = Fila * c{i,j} \\
+&a_{4,4} = 0 * c_{1,3} => 0 \\
+&a_{4,4} = 3 * c_{2,3} => ? \\
+&a_{4,4} = 0 * c_{3,3} => 0\\
+&a_{4,4} = 1 * c_{4,3} => ?
+\end{align*}$$
+
+$$\begin{align*}
+&c_{2,3} = 0 * 7 => 21 \\
+&c_{4,3} = 1 * 13 => 13 \\
+\end{align*}$$
+3. Somar o resultado da multiplicação entre cada elemento.
+$$\begin{align*}
+&c_{2,3} + c_{4,3} = 21 + 13 \\
+&D = 34
+\end{align*}$$
+### **Como descobri o cofator.**
+$$
+c_{i,j} = (-1)^{i+j} . M_{i,j} 
+$$
+> Cofator é um número associado a um elemento qualquer de uma matriz quadrada.
+> O cofator deve ser obtido de cada elemento da matriz.
+
+1. Somar os índices de i + j;
+$c_{2,3}=(-1)^{2+3} => 5$
+$c_{4,3}=(-1)^{4 + 3} => 7$
+2. Calcular os determinantes;
+ **Exemplo:**
+ - Exclua a linha e coluna do seu cofator da matriz principal.
+ > $c_{2,3}=?$
+ > ![[Pasted image 20240320224332_2.png]]
+  
+- Gere uma nova matriz com os outros valores.
+ > ![[Pasted image 20240320234222.png]]
+ > Como essa se trata de uma matriz 3x3 então a regra de **Sarraus** será usada.
+ >
+- Determinante.
+> $c_{2,3}=-7$
+> Repita o mesmo processo para os outros índices.
+
+3. Aplicar a formula;
+$$\begin{align*}
+&c_{2,3} = (-1)^{5} * (-7) \\
+&c_{2,3} = 7 \\
+\end{align*}$$
+$$
+\begin{align*}
+&c_{4,3} = (-1)^{7} * (-13) \\
+&c{4,3} = 13
+\end{align*}
+$$
+5. Voltar para o teorema de **Laplace**.
+
+
+**Obs:**
+- Se $(-1)^{i+j}$ sendo for impar, o resultado é = -1;
+- Se $(-1)^{i+j}$ sendo for par, o resultado é = 1;
+- M representa a determinante do cofator.
+
+---
+# Matriz inversa
+x
+$$X = \begin{bmatrix}
+1 & x_{1}1 & x_{2} \\
+1 & x_{3} 1 & x_{4}
+\end{bmatrix}$$2x2:
+- encontrar o determinante
+- dividir pelo determinante
+- inverte os elementos da diagonal principal
+- inverte os sinais da diagonal secundária
 # Sistemas lineares
+x
