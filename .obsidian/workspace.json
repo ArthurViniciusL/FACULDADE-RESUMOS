@@ -6,6 +6,7 @@
       {
         "id": "a1d43401c2fc7a5b",
         "type": "tabs",
+        "dimension": 57.67766497461929,
         "children": [
           {
             "id": "9c6ffab37d4e79d8",
@@ -15,6 +16,25 @@
               "state": {
                 "file": "Álgebra linear/Matrizes.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "94b5dc2425077b5c",
+        "type": "tabs",
+        "dimension": 42.32233502538071,
+        "children": [
+          {
+            "id": "6119938b3adbec3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra linear/Matrizes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,18 +168,20 @@
   },
   "active": "9c6ffab37d4e79d8",
   "lastOpenFiles": [
-    "Álgebra linear/lu225737498i.tmp",
-    "Álgebra linear/imgs/Pasted image 20240321181320.png",
-    "Pasted image 20240321181221.png",
+    "Álgebra linear/imgs/Pasted image 20240326194912.png",
+    "Álgebra linear/imgs/Pasted image 20240326194240.png",
+    "Álgebra linear/imgs/Pasted image 20240322182245.png",
     "Álgebra linear/Matrizes.md",
-    "Álgebra linear/imgs/Pasted image 20240321181048.png",
-    "Álgebra linear/imgs/Pasted image 20240321180725.png",
-    "Álgebra linear/imgs/Pasted image 20240321180535.png",
-    "Álgebra linear/imgs/Pasted image 20240321175723_2.png",
-    "Álgebra linear/imgs/Pasted image 20240321175723.png",
-    "Pasted image 20240321175715.png",
-    "Álgebra linear/imgs/Pasted image 20240320224332_1.png",
-    "Álgebra linear/imgs/Pasted image 20240320224332_3.png",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240306_191009.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240301_185513.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240301_191247.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240301_190333.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240301_192601.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240301_193434.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240301_195736.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear/20240306_190946.jpg",
+    "Álgebra linear/fotos_do_quadro/sistema linear",
+    "Álgebra linear/lu225737498i.tmp",
     "Álgebra linear/lu2105299yxu.tmp",
     "Álgebra linear/lu2105299yxr.tmp",
     "Álgebra linear/Matrizes",
@@ -173,8 +195,6 @@
     "Álgebra linear/lu97531lso6.tmp",
     "Álgebra linear/lu93881c17m.tmp",
     "Segurança da informação/Segurança da informação.md",
-    "Segurança da informação",
-    "Empreendedorismo",
     "Sem título.canvas",
     "Governança de T.I/Governança de T.I.md",
     "Welcome.md"

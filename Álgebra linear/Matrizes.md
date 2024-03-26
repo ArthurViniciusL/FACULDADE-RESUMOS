@@ -134,7 +134,7 @@ $$
 - Para matrizes de **ordem 3**, utiliza-se a **regra de Sarrus**. A Regra de **Sarrus** é um método prático usado para calcular o determinante de uma matriz quadrada de ordem.
 - **Exemplo:**
 	Aqui estão os passos para **aplicar a Regra de Sarrus**:
-1. epita as duas primeiras colunas ao lado da matriz;
+1. Repita as duas primeiras colunas ao lado da matriz;
 	![[Pasted image 20240319203214.png]]
 	![[Pasted image 20240319203236.png]]
 2. Multiplique os valores de todas as **diagonais da principais**;
@@ -244,12 +244,9 @@ Uma matriz inversa é uma matriz quadrada ($A$) que quando multiplicada por sua 
 
 **Exemplo:**
 ![[Pasted image 20240321175723.png]]
-$D = 2$
-$$X = \begin{bmatrix}
-1 & x_{1}1 & x_{2} \\
-1 & x_{3} 1 & x_{4}
-\end{bmatrix}$$2x2:
+
 - Encontrar o determinante da matriz ([[Determinantes]]);
+$D = 2$
 - Dividir os valores pelo determinante;
 ![[Pasted image 20240321175723_2.png]]
 ![[Pasted image 20240321180535.png]]
@@ -263,4 +260,58 @@ E o resultado final da matriz inversa é:
 ![[Pasted image 20240321181320.png]]
 
 # Sistemas lineares
+O trabalho com equações existe devido à necessidade de encontrarmos valores desconhecidos de incógnitas.
+
+https://www.todamateria.com.br/sistemas-lineares/
+
+Podemos escrever um sistema de equação de forma matricial. O que chamamos de matriz aumentada.
+![[Pasted image 20240322182245.png]]
+## Método da eliminação de Gauss
+O método de eliminação de Gauss, também conhecido como método de escalonamento, é um algoritmo eficiente para resolver sistemas de equações lineares. Ele consiste em transformar o sistema original em um sistema equivalente de forma triangular superior, mais fácil de resolver.
+
+### Resolução
+**Exemplo:**
+$$
+\begin{cases}
+x + 2y - 3z = 5 \\
+2x +y + z = 8 \\
+x + 4y - 2z = 12
+\end{cases}
+$$
+**1. Criar uma matriz aumentada.**
+$$
+\begin{bmatrix}
+1 & 2 & -3 & | & 5 \\
+2 & 1 & 1 &| & 8 \\
+1 & 4 & -2 & | & 12
+\end{bmatrix}
+$$
+**2. Selecionar a diagonal principal.**
+![[Pasted image 20240326194240.png]]
+
+**3. Aplicando a eliminação de Gauss.**
+O método de eliminação deve ser aplicada até que **todos os elementos abaixo da diagonal principal estejam zerados**.
+![[Pasted image 20240326194912.png]]
+
+Outra regra é que 
+
+A estrutura do **algorítimo** deve seguir os seguintes passos:
+- 1. Algumas coisa sobre o zero no primeiro elemento
 x
+- 2. Encontrar o número pivô.
+x
+pivô = elemento linha acima
+- 3. x
+
+multiplicador = (elemento linha atual / pivô)
+elemento linha atual - multiplicador * elemento linha pivô
+**4. Resolver o sistema.**
+x
+jogar os valores pós variável para o outro lado e inverter o sinal
+resolver o sistema
+isolar a varivel
+na hora de dividir não inverte o sinal
+
+Os coeficientes são os números que multiplicam as letras, chamadas de incógnitas, que nos sistemas lineares, possuem expoente no máximo igual a 1.
+
+## Classificação dos sistemas lineares
