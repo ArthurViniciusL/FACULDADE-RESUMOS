@@ -34,7 +34,6 @@ Uma matriz é considerada quadrada quando a quantidade linhas é igual a quantid
 ![[Pasted image 20240304132331.png]]
 
 Sempre que uma matriz for quadrada então ela irá possuir duas diagonais, a principal e a secundária.
-
 ### Diagonal principal
 > Sempre vai ser representando da esquerda para a direita.
 > ![[Pasted image 20240304160854.png]]
@@ -119,6 +118,7 @@ O determinante de uma matriz é importante para várias aplicações, como verif
 O determinante é uma função matemática que associa a cada matriz quadrada um número real. Este número é **calculado a partir dos elementos da matriz** e possui propriedades específicas que o tornam uma ferramenta poderosa na resolução de problemas matemáticos.
 ## Determinante de ordem 1
 - Para matrizes de ordem 1, o determinante é igual ao seu único elemento.
+----
 ## Determinante de ordem 2
 - Para matrizes de ordem 2, o determinante é calculado pela diferença (subtração) entre o produto dos termos da diagonal principal e os termos da diagonal secundária. Ou seja **diagonal principal - diagonal secundária**.
 - **Exemplo:**
@@ -163,11 +163,12 @@ $$
 	&Det = d_1 - d_2  \\ &Det = 2
 	\end{align*}
 $$
+
+----
 ## Determinante de ordem ≥ 4 (Teorema de Laplace)
 O **Teorema de Laplace** é um método para **calcular o determinante de matrizes** quadradas de ordem _n_. Normalmente, é utilizado quando as matrizes são **de ordem igual ou maior que 4**.
 
 Para usar o Teorema de Laplace é necessário obter o cofator de cada índice da matriz.
-
 
 ### **Como funciona o teorema de Laplace.**
 No teorema de Laplace a **determinante** da matriz será o produto da soma entre os elemento multiplicados pelos seus cofatores.
@@ -258,60 +259,3 @@ $D = 2$
 
 E o resultado final da matriz inversa é:
 ![[Pasted image 20240321181320.png]]
-
-# Sistemas lineares
-O trabalho com equações existe devido à necessidade de encontrarmos valores desconhecidos de incógnitas.
-
-https://www.todamateria.com.br/sistemas-lineares/
-
-Podemos escrever um sistema de equação de forma matricial. O que chamamos de matriz aumentada.
-![[Pasted image 20240322182245.png]]
-## Método da eliminação de Gauss
-O método de eliminação de Gauss, também conhecido como método de escalonamento, é um algoritmo eficiente para resolver sistemas de equações lineares. Ele consiste em transformar o sistema original em um sistema equivalente de forma triangular superior, mais fácil de resolver.
-
-### Resolução
-**Exemplo:**
-$$
-\begin{cases}
-x + 2y - 3z = 5 \\
-2x +y + z = 8 \\
-x + 4y - 2z = 12
-\end{cases}
-$$
-**1. Criar uma matriz aumentada.**
-$$
-\begin{bmatrix}
-1 & 2 & -3 & | & 5 \\
-2 & 1 & 1 &| & 8 \\
-1 & 4 & -2 & | & 12
-\end{bmatrix}
-$$
-**2. Selecionar a diagonal principal.**
-![[Pasted image 20240326194240.png]]
-
-**3. Aplicando a eliminação de Gauss.**
-O método de eliminação deve ser aplicada até que **todos os elementos abaixo da diagonal principal estejam zerados**.
-![[Pasted image 20240326194912.png]]
-
-Outra regra é que 
-
-A estrutura do **algorítimo** deve seguir os seguintes passos:
-- 1. Algumas coisa sobre o zero no primeiro elemento
-x
-- 2. Encontrar o número pivô.
-x
-pivô = elemento linha acima
-- 3. x
-
-multiplicador = (elemento linha atual / pivô)
-elemento linha atual - multiplicador * elemento linha pivô
-**4. Resolver o sistema.**
-x
-jogar os valores pós variável para o outro lado e inverter o sinal
-resolver o sistema
-isolar a varivel
-na hora de dividir não inverte o sinal
-
-Os coeficientes são os números que multiplicam as letras, chamadas de incógnitas, que nos sistemas lineares, possuem expoente no máximo igual a 1.
-
-## Classificação dos sistemas lineares
