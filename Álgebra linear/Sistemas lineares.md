@@ -214,7 +214,6 @@ x = 2
 \end{align*}
 $$
 ---
-## Classificação dos sistemas lineares.
 ## Classificação de Sistemas Lineares
 
 Os sistemas lineares são classificados em três tipos, de acordo com o número de soluções que possuem:

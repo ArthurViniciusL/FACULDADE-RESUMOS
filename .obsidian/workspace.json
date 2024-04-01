@@ -4,35 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "a1d43401c2fc7a5b",
+        "id": "b40bf6d51f824f44",
         "type": "tabs",
         "children": [
           {
-            "id": "9c6ffab37d4e79d8",
+            "id": "1fb656490eada006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra linear/Matrizes.md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e6faa75eb22a39d",
+            "id": "81a51db38e6611fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Álgebra linear/Sistemas lineares.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240401155016.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra linear/Sistemas lineares.md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Álgebra linear/Sistemas lineares.md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra linear/Sistemas lineares.md"
+                "file": "Álgebra linear/Vetores - Resumo..md"
               }
             }
           }
@@ -159,21 +156,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6e6faa75eb22a39d",
+  "active": "1fb656490eada006",
   "lastOpenFiles": [
-    "Álgebra linear/Matrizes.md",
+    "Pasted image 20240401155016.png",
+    "Álgebra linear/Vetores - Resumo..md",
+    "Álgebra linear/imgs/Pasted image 20240401152439.png",
+    "Álgebra linear/fotos_do_quadro/20240319_182503.jpg",
+    "Álgebra linear/fotos_do_quadro/20240319_182511.jpg",
+    "Álgebra linear/fotos_do_quadro/20240319_182520.jpg",
+    "Álgebra linear/fotos_do_quadro/20240319_182529.jpg",
+    "Álgebra linear/fotos_do_quadro/20240319_182540.jpg",
+    "Álgebra linear/fotos_do_quadro/20240319_182549.jpg",
+    "Álgebra linear/fotos_do_quadro/20240308_185312.jpg",
+    "Álgebra linear/fotos_do_quadro/20240308_185330.jpg",
     "Álgebra linear/Sistemas lineares.md",
+    "Álgebra linear/Sistemas lineares.pdf",
+    "Álgebra linear/Matrizes.md",
+    "Álgebra linear/Matrizes.pdf",
     "Rascunho.md",
-    "Álgebra linear/imgs/Pasted image 20240328150500.png",
-    "Pasted image 20240328150500.png",
-    "Pasted image 20240328150433.png",
-    "Pasted image 20240328150402.png",
-    "Álgebra linear/imgs/Pasted image 20240327155756.png",
-    "Pasted image 20240327155756.png",
-    "Álgebra linear/imgs/Pasted image 20240327152853.png",
-    "Pasted image 20240327152853.png",
-    "Álgebra linear/imgs/Pasted image 20240326194912.png",
-    "Álgebra linear/imgs/Pasted image 20240326194240.png",
     "Álgebra linear/fotos_do_quadro/sistema linear",
     "Álgebra linear/lu225737498i.tmp",
     "Álgebra linear/lu2105299yxu.tmp",
@@ -186,8 +186,6 @@
     "T.E.S.I.  (desenvolvimento de sistemas de informação)./docker-deb-install.sh",
     "Processo decisório/Processo decisório.md",
     "T.E.S.I.  (desenvolvimento de sistemas de informação).",
-    "Álgebra linear/lu97531lso6.tmp",
-    "Álgebra linear/lu93881c17m.tmp",
     "Segurança da informação/Segurança da informação.md",
     "Sem título.canvas",
     "Governança de T.I/Governança de T.I.md",
