@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fb656490eada006",
+            "id": "81a51db38e6611fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "81a51db38e6611fc",
+            "id": "1323bf4c880a3abe",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -156,10 +156,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1fb656490eada006",
+  "active": "81a51db38e6611fc",
   "lastOpenFiles": [
-    "Pasted image 20240401155016.png",
+    "Pasted image 20240402210935.png",
     "Álgebra linear/Vetores - Resumo..md",
+    "Pasted image 20240401155016.png",
+    "Álgebra linear/imgs/Pasted image 20240402211102.png",
+    "Álgebra linear/Sistemas lineares.md",
+    "Álgebra linear/Matrizes.md",
+    "Álgebra linear/Matrizes.pdf",
     "Álgebra linear/imgs/Pasted image 20240401152439.png",
     "Álgebra linear/fotos_do_quadro/20240319_182503.jpg",
     "Álgebra linear/fotos_do_quadro/20240319_182511.jpg",
@@ -167,12 +172,7 @@
     "Álgebra linear/fotos_do_quadro/20240319_182529.jpg",
     "Álgebra linear/fotos_do_quadro/20240319_182540.jpg",
     "Álgebra linear/fotos_do_quadro/20240319_182549.jpg",
-    "Álgebra linear/fotos_do_quadro/20240308_185312.jpg",
-    "Álgebra linear/fotos_do_quadro/20240308_185330.jpg",
-    "Álgebra linear/Sistemas lineares.md",
     "Álgebra linear/Sistemas lineares.pdf",
-    "Álgebra linear/Matrizes.md",
-    "Álgebra linear/Matrizes.pdf",
     "Rascunho.md",
     "Álgebra linear/fotos_do_quadro/sistema linear",
     "Álgebra linear/lu225737498i.tmp",

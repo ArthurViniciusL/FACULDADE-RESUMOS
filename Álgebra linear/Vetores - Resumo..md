@@ -33,13 +33,43 @@ $$\|\overrightarrow{v}\| = \sqrt{x^2 + y^2}$$
 **5. Norma do Vetor Inverso:** ||-v|| = ||v|| para todo vetor $\overrightarrow{v}$.
 
 ----
-# Operações com vetores
-
-## 1. Igualdade
-----
 # Vetores no plano
+
+Vetores no plano sempre vão possuir duas coordenadas, $x$ e $y$, que representam a altura e a largura.
 $$
 \overrightarrow{A_a}=(x,y)
 $$
+## Operações com vetores no plano
+
+### 1. Igualdade
+
+O vetores $\overrightarrow{u} = (x_1, y_1)$ e $\overrightarrow{v} = (x_2, y_2)$ são iguais se, e somente se, $z_1 = x_2$ e $y_1=y_2$, escrevendo-se $\overrightarrow{u} = \overrightarrow{v}$.
+
+Ou seja, dois ou mais vetores podem ser considerados iguais quando as suas coordenadas são iguais.
+
+Determinar a igualdade de um vetor é necessário em casos onde é necessário determinar:
+- **Igualdade de vetores nulos:** O vetor nulo é o único vetor que é igual a si mesmo.
+- **Igualdade de vetores opostos:** Se um vetor é o oposto de outro, então os dois vetores são iguais.
+#### Exemplo
+O vetor $\overrightarrow{u} = (x + 1,4)$ é igual ao vetor $\overrightarrow{v} = (5, 2_y - 6)$ se $x + 1 = 5$ e $2_y - 4 = 4$ ou $x = 4$  e $y = 5$. Sendo assim, se $\overrightarrow{u} = \overrightarrow{v}$, então $x = 4$, $y = 5$ e $\overrightarrow{u} = \overrightarrow{v} = (5, 4)$.
+
+----
+### 2. Soma
+
+A soma de vetores é definida por: 
+$$
+\begin{align*}
+& \overrightarrow{u} + \overrightarrow{v} = (x_1 + y_1 , x_2 + y_2) \\
+& \alpha \overrightarrow{u} = (\alpha x_1, \alpha y_1)
+\end{align*}
+$$
+
+![[Pasted image 20240402210935.png]]
+
+Ou seja, para que efetuar a soma entre vetores, nós somamos as coordenadas de cada vetor. O que irá resultar em uma nova e única coordenada.
+
+---
+### 3. Subtração
+
 ----
 # Vetores no espaço
