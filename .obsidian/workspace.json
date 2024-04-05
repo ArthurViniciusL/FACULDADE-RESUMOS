@@ -8,7 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81a51db38e6611fc",
+            "id": "7f6c2409bab3c9a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vetores - Resumo 2..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d8372ab7910ccd3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Álgebra linear/imgs/Pasted image 20240403161827.png"
+              }
+            }
+          },
+          {
+            "id": "2371c79c49d3deb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,16 +38,6 @@
                 "file": "Álgebra linear/Vetores - Resumo..md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1323bf4c880a3abe",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240401155016.png"
               }
             }
           }
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra linear/Vetores - Resumo..md",
+                "file": "Vetores - Resumo 2..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Álgebra linear/Vetores - Resumo..md",
+                "file": "Vetores - Resumo 2..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra linear/Vetores - Resumo..md"
+                "file": "Vetores - Resumo 2..md"
               }
             }
           }
@@ -156,22 +168,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "81a51db38e6611fc",
+  "active": "7f6c2409bab3c9a0",
   "lastOpenFiles": [
-    "Pasted image 20240402210935.png",
+    "Pasted image 20240405153918.png",
+    "Álgebra linear/imgs/Pasted image 20240403161827.png",
+    "Pasted image 20240403161836.png",
+    "Álgebra linear/imgs/Pasted image 20240404110924.png",
+    "Álgebra linear/imgs/Pasted image 20240404203327.png",
+    "Álgebra linear/imgs/Pasted image 20240404231410.png",
     "Álgebra linear/Vetores - Resumo..md",
+    "Vetores - Resumo 2..md",
+    "Empreendedorismo/Empreendedorismo.md",
+    "Empreendedorismo/Empreendedorismo.pdf",
+    "Pasted image 20240404110141.png",
+    "Pasted image 20240404105535.png",
+    "Álgebra linear/imgs/Pasted image 20240403164401.png",
     "Pasted image 20240401155016.png",
-    "Álgebra linear/imgs/Pasted image 20240402211102.png",
+    "Pasted image 20240402210935.png",
     "Álgebra linear/Sistemas lineares.md",
     "Álgebra linear/Matrizes.md",
     "Álgebra linear/Matrizes.pdf",
-    "Álgebra linear/imgs/Pasted image 20240401152439.png",
-    "Álgebra linear/fotos_do_quadro/20240319_182503.jpg",
-    "Álgebra linear/fotos_do_quadro/20240319_182511.jpg",
-    "Álgebra linear/fotos_do_quadro/20240319_182520.jpg",
-    "Álgebra linear/fotos_do_quadro/20240319_182529.jpg",
-    "Álgebra linear/fotos_do_quadro/20240319_182540.jpg",
-    "Álgebra linear/fotos_do_quadro/20240319_182549.jpg",
     "Álgebra linear/Sistemas lineares.pdf",
     "Rascunho.md",
     "Álgebra linear/fotos_do_quadro/sistema linear",
@@ -180,12 +196,10 @@
     "Álgebra linear/lu2105299yxr.tmp",
     "Álgebra linear/Matrizes",
     "T.E.S.I.  (desenvolvimento de sistemas de informação)./Desenvolvimento de sistemas de informação.md",
-    "Empreendedorismo/Empreendedorismo.md",
     "Marketing Digital/Marketing Digital.md",
     "T.E.S.I.  (desenvolvimento de sistemas de informação)./imgs",
     "T.E.S.I.  (desenvolvimento de sistemas de informação)./docker-deb-install.sh",
     "Processo decisório/Processo decisório.md",
-    "T.E.S.I.  (desenvolvimento de sistemas de informação).",
     "Segurança da informação/Segurança da informação.md",
     "Sem título.canvas",
     "Governança de T.I/Governança de T.I.md",
