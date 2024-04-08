@@ -8,29 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f6c2409bab3c9a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vetores - Resumo 2..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d8372ab7910ccd3",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Álgebra linear/imgs/Pasted image 20240403161827.png"
-              }
-            }
-          },
-          {
-            "id": "2371c79c49d3deb6",
+            "id": "575004229ec8a174",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vetores - Resumo 2..md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vetores - Resumo 2..md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vetores - Resumo 2..md"
+                "file": "Álgebra linear/Vetores - Resumo..md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,25 +146,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "7f6c2409bab3c9a0",
+  "active": "575004229ec8a174",
   "lastOpenFiles": [
-    "Pasted image 20240405153918.png",
+    "Álgebra linear/imgs/Pasted image 20240408114941.png",
+    "Álgebra linear/imgs/Pasted image 20240408113353.png",
+    "Álgebra linear/Sistemas lineares.md",
+    "Álgebra linear/Vetores - Resumo..md",
+    "Álgebra linear/Matrizes.md",
+    "Álgebra linear/imgs/Pasted image 20240405153918.png",
     "Álgebra linear/imgs/Pasted image 20240403161827.png",
     "Pasted image 20240403161836.png",
     "Álgebra linear/imgs/Pasted image 20240404110924.png",
     "Álgebra linear/imgs/Pasted image 20240404203327.png",
     "Álgebra linear/imgs/Pasted image 20240404231410.png",
-    "Álgebra linear/Vetores - Resumo..md",
-    "Vetores - Resumo 2..md",
     "Empreendedorismo/Empreendedorismo.md",
     "Empreendedorismo/Empreendedorismo.pdf",
     "Pasted image 20240404110141.png",
     "Pasted image 20240404105535.png",
     "Álgebra linear/imgs/Pasted image 20240403164401.png",
-    "Pasted image 20240401155016.png",
-    "Pasted image 20240402210935.png",
-    "Álgebra linear/Sistemas lineares.md",
-    "Álgebra linear/Matrizes.md",
     "Álgebra linear/Matrizes.pdf",
     "Álgebra linear/Sistemas lineares.pdf",
     "Rascunho.md",

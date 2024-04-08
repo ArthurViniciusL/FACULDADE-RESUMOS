@@ -42,6 +42,8 @@ Se sim, troque a primeira linha com a linha que contém o primeiro elemento dife
 ##### 3.3. Definir o elemento multiplicador geral da linha.
 O multiplicador da linha $M_L$ deve ser usado nos outros elementos da linha em que ele multiplica. O multiplicador pode ser qualquer número que possibilite zera o primeiro elemento da linha 2 em diante.
 
+Um bom jeito de escolher o $M_L$ é selecionar um elemento da linha de cima.
+
 No nosso caso um número que serve como multiplicador é o 2 na linha 1.
 $$
 M_L = 2
