@@ -101,14 +101,14 @@ Se $\|\overrightarrow{v}\| = 1$ então o vetor $\overrightarrow{v}$ é dito unit
 
 ### 3. Vetor unitário W
  Se $\overrightarrow{v}$  for um vetor não-nulo, onde $\|\overrightarrow{v}\| \neq 1$, então podemos dizer que temos o vetor unitário, representado por:  $\overrightarrow{w} = \dfrac{\overrightarrow{v}}{\|\overrightarrow{v}\|}$.
-### 4. Vetores perpendicular
-O que é expresso por:  $u \perp v$ ;
+### 4. Vetores perpendicular e ortogonais
 
-Dois vetores são considerados ortogonais se o **produto escalar** entre eles for igual a **zero** ($u * v = 0$). Em outras palavras, se o ângulo entre os vetores for de **90°**.
+Dois vetores são considerados perpendiculares (ortogonais quando estão no $R³$), se o **produto escalar** entre eles for igual a **zero** ($u * v = 0$). Em outras palavras, se o ângulo entre os vetores for de **90°**.
+
+O que é expresso por:  $u \perp v$  -> $u * v = 0$
 ### 5. Vetores paralelos
-O que é expresso por:  $u // v$ ;
 
-Dois vetores são considerados paralelos se eles tiverem a **mesma direção**, podendo ter **sentidos iguais ou opostos**. Então a partir disso dizes que existe um número real $K$ no plano ($k \in \Re$), tal que é possível expressar por $u = k * v$.
+Dois vetores são considerados paralelos se eles tiverem a **mesma direção**, podendo ter **sentidos iguais ou opostos**. Então a partir disso dizes que existe um número real $K$ no plano ($k \in \Re$), tal que é possível expressar por:  $u // v$  -> $u = k * v$.
 
 ---
 ## Angulo de um vetor
@@ -141,7 +141,7 @@ A soma dos vetores, ou segmentos orientados, é feita com base na soma entre as 
 
 $$
 \begin{align*}
-A=(x_1 + y_1, x_2 + y_2) \\ 
+AB=(x_1 + x_2, y_1 + y_2) \\ 
 \end{align*}
 $$
 Ou:
@@ -173,7 +173,7 @@ A subtração dos vetores, ou segmentos orientados, é feita com base na soma en
 
 $$
 \begin{align*}
-A=(x_1 - y_1, x_2 - y_2) \\ 
+AB=(x_2 - y_2, x_1 - y_1) \\ 
 \end{align*}
 $$
 Ou podemos representar por:
@@ -192,7 +192,6 @@ $$
 n*\overrightarrow{u}=(n*x, n*y) \\ 
 \end{align*}
 $$
-
 #### Exemplo:
 Considerando o número real 2. E o vetor $\overrightarrow{u}=(4,1)$. Obtemos:
 $$
@@ -204,7 +203,19 @@ $$
 ![[Pasted image 20240408113353.png]]
 
 ----
-# Ponto médio
+## Produto escalar
+
+O produto escalar é a multiplicação entre dois vetores que resulta em um valor real.
+
+Sendo definido por:
+$$
+\begin{align*}
+\overrightarrow{u}*\overrightarrow{v} = (x_1 * x_2) + (y_1*y_2)
+\end{align*}
+$$
+
+---
+## Ponto médio
 O ponto médio de um vetor no $R^2$ é um ponto que divide o vetor em dois segmentos de igual comprimento. Ou seja, ele está equidistante da origem e da extremidade.
 ![[Pasted image 20240408114941.png]]
 
@@ -212,12 +223,73 @@ Sendo expresso por:
 $$
 M= \dfrac{x_1+x_2}{2},\dfrac{y_1+y_2}{2}
 $$
-
----
-# Produto escalar
-
 --- 
 # Vetores no espaço
+
+Vetores no espaço ($R³$), estão lidando co três dimensões. Isso significa que agora cada vetor irá possuir três coordenadas.
+
+$$\overrightarrow{v}= (x,y,z)$$
+
+![[Pasted image 20240408145911.png]]
+
+O que isso implica nas operações? Agora todas operações devem conter a nova coordenada $z$.
+
+## 1. Soma
+$$
+\begin{align*}
+AB=(x_1 + y_1, x_2 + y_2, x_3 + y_3) \\ 
+\end{align*}
+$$
+## 2. Subtração
+$$
+\begin{align*}
+AB=(x_2 - x_1, y_2 - y_1, z_2 - z_1) \\ 
+\end{align*}
+$$
+## 3. Ponto médio
+
+$$
+M= \dfrac{x_1+x_2}{2},\dfrac{y_1+y_2}{2}, \dfrac{z_1+z_2}{2}
+$$
+---
+
+# Produto escalar
+
+O resultado do produto escalar é um **número real**. 
+
+- Para calcular o produto escalar de um vetor no $R²$ usamos:
+$$
+\overrightarrow{u} * \overrightarrow{v} = (x_1 * x_2) + (y_1 * y_2)
+$$
+- Para calcular o produto escalar de um vetor no $R³$ usamos:
+
+$$
+\overrightarrow{u} * \overrightarrow{v} = (x_1 * x_2) + (y_1 * y_2) + (z_1 * z_2)
+$$
+
+---
 # Produto vetorial
 
+O produto vetorial é aplicados em vetores no $R³$ e o resultado de um produto vetorial é um **novo vetor**, que é ortogonal aos vetores originais.
+
+O produto vetorial pode ser calculado através uma matriz 3x3. Por isso ele é expresso por:
+
+$$
+\begin{align*}
+\overrightarrow{u} = (x_1, y_1, z_1) && \overrightarrow{v} = (x_2, y_2, z_2)
+\end{align*}
+$$
+
+$$
+\overrightarrow{u} X \overrightarrow{v} = 
+	\begin{bmatrix}
+		\overrightarrow{i} &\overrightarrow{j} &\overrightarrow{k} \\
+		x_1 & y_1 & z_1 \\
+		x_2 & y_2 &z_2
+	\end{bmatrix}
+$$
+
+E claro, para resolver esse tipo de matriz pode ser usado _Regra de Sarrus_ ou _Teorema de Laplace_.
+
+---
 # Produtor misto
