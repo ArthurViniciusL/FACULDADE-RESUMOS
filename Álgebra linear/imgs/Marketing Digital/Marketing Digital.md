@@ -42,5 +42,25 @@ Ao criar uma presença online consistente e relevante, as empresas podem atrair 
 
 ---
 
----
+# SEO
+Dica de curso: https://youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90&si=jsKUl5idmBiX2JZf
+
+SEO (Search Engine Optimization) é uma estratégia crucial para melhorar a visibilidade de um site nos resultados dos mecanismos de busca, como o Google. Funciona otimizando diversos elementos do site para que ele seja melhor compreendido pelos algoritmos de busca, aumentando assim suas chances de aparecer nas primeiras posições das páginas de resultados.
+
+Para aplicar práticas de SEO eficazes, é importante seguir alguns passos:
+
+> 1. **Pesquisa de palavras-chave:** Identificar as palavras-chave relevantes para o seu conteúdo e público-alvo. Isso envolve compreender quais termos as pessoas utilizam ao buscar informações relacionadas ao seu nicho.
+
+> 2. **Conteúdo de qualidade:** Criar conteúdo relevante, útil e de alta qualidade que responda às perguntas e necessidades dos usuários. O conteúdo deve ser original, bem estruturado e incluir palavras-chave de forma natural.
+ 
+> 3. **Otimização on-page:** Ajustar elementos dentro das páginas do seu site, como títulos, meta descrições, tags de cabeçalho e URLs, para torná-los mais amigáveis para os mecanismos de busca e para os usuários.
+ 
+> 4. **Link building:** Construir uma rede de links de qualidade que apontem para o seu site, pois os mecanismos de busca consideram os links como votos de confiança. Isso pode incluir estratégias como guest posting, parcerias com outras empresas e participação em fóruns e comunidades online.
+ 
+> 5. **Otimização de velocidade e usabilidade:** Garantir que seu site seja rápido e fácil de usar em dispositivos móveis e desktops. Isso inclui otimizar o tempo de carregamento das páginas, melhorar a navegação e a experiência do usuário, e tornar o site acessível para pessoas com deficiência.
+ 
+> 6. **Análise e monitoramento:** Utilizar ferramentas de análise, como o Google Analytics e o Google Search Console, para acompanhar o desempenho do seu site nos mecanismos de busca, identificar áreas de melhoria e ajustar suas estratégias de SEO conforme necessário. 
+
+Ao aplicar essas práticas de SEO de forma consistente e focada, é possível melhorar significativamente a visibilidade e o tráfego orgânico do seu site, aumentando assim suas chances de sucesso online.
+
 # x

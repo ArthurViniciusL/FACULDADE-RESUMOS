@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c82e2d494da8848f",
+        "id": "b40bf6d51f824f44",
         "type": "tabs",
         "children": [
           {
-            "id": "31b5db47139e767b",
+            "id": "575004229ec8a174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Segurança da informação.md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6868de6afc00f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Álgebra linear/Matrizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança da informação.md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Segurança da informação.md",
+                "file": "Álgebra linear/Vetores - Resumo..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +137,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança da informação.md"
+                "file": "Álgebra linear/Vetores - Resumo..md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,35 +158,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "31b5db47139e767b",
+  "active": "575004229ec8a174",
   "lastOpenFiles": [
-    "Segurança da informação.md",
-    "Segurança da informação",
+    "Álgebra linear/Matrizes.md",
+    "Álgebra linear/Vetores - Resumo..md",
+    "Segurança da informação/Pasted image 20240408145911.png",
+    "Álgebra linear/imgs/Pasted image 20240408114941.png",
+    "Álgebra linear/imgs/Pasted image 20240408113353.png",
+    "Álgebra linear/Sistemas lineares.md",
+    "Álgebra linear/imgs/Pasted image 20240405153918.png",
+    "Álgebra linear/imgs/Pasted image 20240403161827.png",
+    "Pasted image 20240403161836.png",
+    "Álgebra linear/imgs/Pasted image 20240404110924.png",
+    "Álgebra linear/imgs/Pasted image 20240404203327.png",
+    "Álgebra linear/imgs/Pasted image 20240404231410.png",
     "Empreendedorismo/Empreendedorismo.md",
-    "Marketing Digital/Marketing Digital.md",
-    "Empreendedorismo",
-    "Marketing Digital",
-    "Álgebra linear/Álgebra linear.md",
+    "Empreendedorismo/Empreendedorismo.pdf",
+    "Pasted image 20240404110141.png",
+    "Álgebra linear/Matrizes.pdf",
+    "Álgebra linear/Sistemas lineares.pdf",
+    "Rascunho.md",
+    "Álgebra linear/fotos_do_quadro/sistema linear",
+    "Álgebra linear/lu225737498i.tmp",
+    "Álgebra linear/lu2105299yxu.tmp",
+    "Álgebra linear/lu2105299yxr.tmp",
+    "Álgebra linear/Matrizes",
+    "T.E.S.I.  (desenvolvimento de sistemas de informação)./Desenvolvimento de sistemas de informação.md",
+    "Álgebra linear/imgs/Marketing Digital/Marketing Digital.md",
+    "T.E.S.I.  (desenvolvimento de sistemas de informação)./imgs",
+    "T.E.S.I.  (desenvolvimento de sistemas de informação)./docker-deb-install.sh",
     "Processo decisório/Processo decisório.md",
-    "Processo decisório/imgs",
-    "Processo decisório/imgs/Pasted image 20240305194413.png",
-    "Processo decisório",
-    "Álgebra linear/imgs/Pasted image 20240304172529.png",
-    "Álgebra linear/imgs/Pasted image 20240304175403.png",
-    "Álgebra linear/imgs/Pasted image 20240304175143.png",
-    "Álgebra linear/imgs/Pasted image 20240304172758.png",
-    "Álgebra linear/imgs/Pasted image 20240304171506.png",
-    "Álgebra linear/imgs/Pasted image 20240304171439.png",
-    "Álgebra linear/imgs/Pasted image 20240304130301.png",
-    "Álgebra linear/imgs/Pasted image 20240304132331.png",
-    "Álgebra linear/imgs/Pasted image 20240304160854.png",
-    "Álgebra linear/imgs",
-    "Álgebra linear/esboço_matriz.odf",
-    "Álgebra linear/lu2011655hwb.tmp",
-    "Álgebra linear/fotos_do_quadro",
+    "Segurança da informação/Segurança da informação.md",
     "Sem título.canvas",
     "Governança de T.I/Governança de T.I.md",
-    "Governança de T.I",
     "Welcome.md"
   ]
 }

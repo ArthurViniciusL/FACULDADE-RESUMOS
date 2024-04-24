@@ -65,7 +65,7 @@ Para facilitar a analise de um problema existem formar de caracterizá-lô. Por 
 **Exemplo:**
 > Um processo de fabricação de um produto padronizado, como a produção de caixas de papelão. Nesse caso, as etapas do processo são bem definidas, os materiais são conhecidos, e a execução pode ser repetida de maneira consistente para obter os resultados desejados.
 
-## ## Problema semiestruturado
+## Problema semiestruturado
 É quando suas operações são bem conhecidas, porém contém algum fator ou critério variável que pode influir no resultado de maneira incerta.
 
 **Exemplo:**
@@ -85,7 +85,7 @@ Esquema de um ciclo de decisão não estruturado:
 # Níveis de decisão
 Dentro dos tipos de **problemas de decisão** também encontramos uma outra categoria relacionada a zona de impacto da minha decisão.
 
-E para que seja possível definir um **nível de decisão** os parametros de _Tempo_ e _Abrangência_ devem ser analisados.
+E para que seja possível definir um **nível de decisão** os parâmetros de _Tempo_ e _Abrangência_ devem ser analisados.
 
 ## Operacional
 
@@ -104,4 +104,77 @@ E para que seja possível definir um **nível de decisão** os parametros de _Te
 | Longo prazo (2 á 5 anos). | Abrangente – toda a organização.. |
 
 ----
-# x
+# Modelos de decisão
+Os modelos de decisão são modelos e métodos de organização para serem usados como exemplos em tomadas de decisão.
+
+## Modelo racional
+> É um modelo linear que através de modelos matemáticos chega ao que pode ser determinado como o melhor entre as alternativas de cada cenário.
+
+> Uma das vantagens de se aplicar o **modelo racional** é que ele te torna consciente sobre cada escolha, maximizando o valor dentro de limitações específicas.
+
+> As decisões tomadas de forma racional têm por base estudos sistemáticos e análises lógicas do problema. Dessa forma, os fatos sofrem uma avaliação, as alternativas são pesadas e a decisão obtida é aquela que contemplará as necessidades e interesse de todos.
+
+> Entretanto, o modelo racional sofre críticas devido a limitações como: incertezas dos momentos pós -decisões, complexidade causal, dificuldade e confusão na mensuração da importância das variáveis que afetam o problema de decisão, ambiguidade nas preferências de quem que dirige o processo decisório , conflitos interpessoais em virtude de objetivos diferentes dos envolvidos na decisão e interação estratégica com outros concorrentes.
+## Modelo de racionalidade limitada
+
+>**Como funciona:** No modelo de racionalidade limitada, os decisores não são capazes de considerar todas as alternativas possíveis nem de analisar completamente todas as informações disponíveis antes de tomar uma decisão. Em vez disso, eles adotam estratégias simplificadas para lidar com a complexidade das decisões, como satisficing (aceitar uma solução satisfatória em vez de uma ótima) e heurísticas (atalhos mentais).
+
+>**Vantagens:**
+>
+>1. **Eficiência:** Permite decisões mais rápidas em situações onde o tempo é um recurso limitado.
+>2. **Redução da sobrecarga cognitiva:** Alivia a carga cognitiva dos decisores ao simplificar o processo de decisão.
+>3. **Flexibilidade:** Os decisores podem se adaptar mais facilmente a mudanças nas circunstâncias.
+
+>**Desvantagens:**
+>
+>1. **Possível sub-otimização:** Decisões baseadas em racionalidade limitada podem não levar à melhor solução possível.
+>2. **Erro de julgamento:** Heurísticas e simplificações podem levar a decisões enviesadas ou falhas.
+>3. **Menos fundamentação teórica:** Pode faltar uma base teórica sólida para explicar as decisões tomadas.
+
+## Modelo político de decisão
+
+> **Como funciona:** No modelo político de decisão, as decisões são vistas como o resultado de processos políticos, onde diversos interesses, poderes e coalizões estão em jogo. As decisões refletem compromissos entre diferentes grupos e são influenciadas por fatores como barganha, negociação e poder.
+
+> **Vantagens:**
+>
+>1. **Consideração de múltiplos interesses:** Toma em conta os interesses de diferentes grupos e partes interessadas.
+>2. **Flexibilidade:** As decisões podem ser ajustadas para acomodar várias perspectivas e necessidades.
+>3. **Aceitação mais ampla:** Decisões políticas podem ser mais aceitas por serem percebidas como o resultado de um processo justo e inclusivo.
+
+>**Desvantagens:**
+>
+>1. **Possível paralisia decisória:** O processo político pode levar a atrasos ou impasses na tomada de decisões.
+>2. **Favorecimento de interesses específicos:** Decisões podem ser influenciadas por grupos poderosos em detrimento do bem comum.
+>3. **Falta de transparência:** O processo político pode ser opaco, dificultando a prestação de contas e a compreensão pública das decisões.
+
+## Modelo lata de lixo
+
+> **Como funciona:** O modelo lata de lixo propõe que as decisões são o resultado de uma combinação aleatória de problemas, soluções, participantes e processos. As decisões são tomadas em ambientes organizacionais complexos, onde múltiplos problemas competem por atenção, soluções são ambíguas e os participantes têm interesses variados.
+
+> **Vantagens:**
+>
+> 1. **Flexibilidade:** Adapta-se a ambientes organizacionais complexos e dinâmicos.
+> 2. **Inclusão de múltiplas perspectivas:** Reconhece a natureza multifacetada dos problemas e soluções.
+> 3. **Inovação:** Pode gerar soluções criativas e não convencionais para problemas complexos.
+
+> **Desvantagens:**
+>
+> 1. **Falta de direção:** Pode resultar em decisões inconsistentes ou descoordenadas devido à falta de um processo de tomada de decisão claro.
+> 2. **Risco de desperdício de recursos:** A aleatoriedade pode levar a alocações ineficientes de recursos e esforços.
+> 3. **Dificuldade de avaliação:** Pode ser difícil avaliar a eficácia das decisões tomadas neste modelo devido à sua natureza complexa e não linear.
+
+## Teoria da instituição e decisões
+
+> **Como funciona:** A teoria das instituições enfoca como as estruturas organizacionais e as normas influenciam as decisões. Ela considera como as instituições moldam as preferências dos atores, influenciam as opções disponíveis e definem os procedimentos para a tomada de decisões.
+
+> **Vantagens:**
+> 
+> 1. **Contextualização das decisões:** Considera o impacto das normas e estruturas organizacionais no processo de decisão.
+> 2. **Estabilidade:** As instituições podem fornecer estabilidade e previsibilidade aos processos de decisão.
+> 3. **Identificação de padrões:** Permite identificar tendências de comportamento e decisões ao longo do tempo.
+
+> **Desvantagens:**
+>
+> 1. **Resistência à mudança:** As instituições estabelecidas podem dificultar a adaptação a novas circunstâncias ou necessidades.
+> 2. **Possível rigidez:** Normas e estruturas institucionais inflexíveis podem limitar a capacidade de inovação e adaptação.
+> 3. **Perpetuação de desigualdades:** As instituições existentes podem perpetuar desigualdades ou injustiças, limitando a equidade nas decisões.
