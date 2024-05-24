@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Álgebra linear/Vetores - Resumo..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6868de6afc00f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Álgebra linear/Matrizes.md",
+                "file": "Algebra Linear/Combinações lineares..md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Álgebra linear/Vetores - Resumo..md",
+                "file": "Algebra Linear/Combinações lineares..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Álgebra linear/Vetores - Resumo..md",
+                "file": "Algebra Linear/Combinações lineares..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Álgebra linear/Vetores - Resumo..md"
+                "file": "Algebra Linear/Combinações lineares..md"
               }
             }
           }
